@@ -72,7 +72,7 @@ namespace Jogo_da_Adivinhacao
                     somaChute = somaChute + chute;
                 }
 
-                pontosPerdidos = pontos / somaChute ;
+                pontosPerdidos = (pontos - somaChute) /  2 ;
 
                 if (chute < 0) //Garantir que nao chute numeros negativos
                 {
@@ -82,7 +82,7 @@ namespace Jogo_da_Adivinhacao
                 if (chute == numeroSecreto) // validacao do chute
                 {
                     Console.WriteLine("Parabens Voce Acertou");
-                    Console.WriteLine("Sua Pontuacao {0}", pontosPerdidos);
+                    Console.WriteLine("Sua Pontuacao {0}", pontosPerdidos.ToString("F2"));
                     break;
                 }
                 else
