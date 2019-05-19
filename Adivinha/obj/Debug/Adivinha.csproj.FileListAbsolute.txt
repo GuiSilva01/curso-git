@@ -1,0 +1,7 @@
+C:\Users\guilh\source\repos\Adivinha\Adivinha\obj\Debug\Adivinha.csprojAssemblyReference.cache
+C:\Users\guilh\source\repos\Adivinha\Adivinha\obj\Debug\Adivinha.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Adivinha\Adivinha\bin\Debug\Adivinha.exe.config
+C:\Users\guilh\source\repos\Adivinha\Adivinha\bin\Debug\Adivinha.exe
+C:\Users\guilh\source\repos\Adivinha\Adivinha\bin\Debug\Adivinha.pdb
+C:\Users\guilh\source\repos\Adivinha\Adivinha\obj\Debug\Adivinha.exe
+C:\Users\guilh\source\repos\Adivinha\Adivinha\obj\Debug\Adivinha.pdb
